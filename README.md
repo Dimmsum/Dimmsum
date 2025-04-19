@@ -10,8 +10,9 @@ I'm a curious mind diving deep into the worlds of **code**, **music**, and **lac
 - Exploring the creative side of tech through **music production** and **design**
 
 ## 🌱 What I'm currently learning
-- **JavaScript** – getting the hang of DOM, ES6, and async/await
-- **ReactJS** – components, hooks, and making things interactive!
+- **JavaScript**
+- **ReactJS**
+- **Python**
 
 ## 🎯 Goals
 - Contribute to open-source projects
