@@ -23,9 +23,6 @@ I'm a curious mind diving deep into the worlds of **code**, **music**, and **lac
 ---
 
 
-> **"We are what we repeatedly do. Excellence, then, is not an act, but a habit."**  
-> – *Will Durant (summarizing Aristotle)*
-
 ---
 
 <!---
